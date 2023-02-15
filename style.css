@@ -1,0 +1,22 @@
+.logo {
+    display: inline;
+    height: 90px;
+    width: 470px;
+    background-repeat: no-repeat;
+    background-position: flex-start;
+  }
+
+  .casestudy{
+    display: inline;
+    max-width: min-content;
+  }
+  
+  .footer {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background: grey;
+    height: 100px;
+    padding-top: 20px;
+
+  }
